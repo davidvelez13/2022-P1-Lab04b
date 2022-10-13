@@ -27,6 +27,13 @@ g.drawLine(300,275,200,275);
 g.drawLine(250,225,300,275);
 
 // DRAW SPHERE
+g.drawOval(450,125,150,150);
+g.drawOval(515,125,25,150);
+g.drawOval(490,125,75,150);
+g.drawOval(465,125,125,150);
+g.drawOval(450,187,150,25);
+g.drawOval(450,170,150,60);
+g.drawOval(450,153,150,95);
 
 
 
