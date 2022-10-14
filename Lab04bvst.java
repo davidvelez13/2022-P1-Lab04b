@@ -46,7 +46,10 @@ g.drawOval(450,153,150,95);
 
 
         // DRAW PACMEN FLOWER
-
+g.fillArc(200,350,100,100,135,-270);
+g.fillArc(400,500,100,100,45,270);
+g.fillArc(250,275,100,100,45,-270);
+g.fillArc()
 
 
     }
